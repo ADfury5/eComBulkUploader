@@ -1,3 +1,4 @@
+#To automate the bulk upload of product data to eCommerce platforms, reducing both time and effort required in managing large inventories.
 import pandas as pd
 import requests
 import os
